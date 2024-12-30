@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Andrej</h1>
+<h1 align="center">Hi, I'm Andrej</h1>
 <h3 align="center">A developer, software engineer and cybersecurity enthusiast from Slovakia.</h3>
 <p align="center"><strong>I work quite a lot in C++, with specific focus on windows internals. I also build scalable applications in GO and backend in node.js</strong><br><strong>Here, you can find my opensource projects, I hope you'll find something useful here!</strong></p>
 
